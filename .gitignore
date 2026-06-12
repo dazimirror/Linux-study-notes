@@ -1,0 +1,11 @@
+# 备份文件
+*_backup.md
+
+# 临时脚本
+fix_*.py
+improve_*.py
+restructure_*.py
+swap_*.py
+
+# 系统文件
+desktop.ini
