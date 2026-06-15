@@ -71,7 +71,7 @@
 
 | 文件 | 内容 |
 |------|------|
-| [日常记录.md](./日常记录.md) | Linux 系统编程笔记 |
+| [Linux系统编程学习.md](./Linux系统编程学习.md) | Linux 系统编程笔记 |
 | [Linux驱动.md](./Linux驱动.md) | Linux 驱动开发笔记 |
 | [xv6.md](./xv6.md) | MIT 6.S081 xv6 操作系统笔记 |
 
