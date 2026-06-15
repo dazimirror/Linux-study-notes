@@ -6,14 +6,12 @@ fix_*.py
 improve_*.py
 restructure_*.py
 swap_*.py
+build_*.py
 
-# 源文件（只保留整合版 github.md）
-日常记录.md
-xv6.md
+# 其他源文件
 C++.md
 CSAPP.md
 Linux系统编程.md
-Linux驱动.md
 学习路线.md
 小智学长.md
 小林coding.md
